@@ -12,7 +12,7 @@ It leverages the custom [ZeroTimer](https://github.com/stuxnet147/ZeroTimer) lib
 
 ## Usage
 
-To use the `UpdateSystem`, include the header files and link against the library in your project. 
+To use the `UpdateSystem`, include the header files in your project. 
 
 Below is an example of how to integrate and use the `UpdateSystem`:
 
