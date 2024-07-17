@@ -18,7 +18,6 @@ Below is an example of how to integrate and use the `UpdateSystem`:
 
 ```cpp
 #include <UpdateSystem.h>
-#include <iostream>
 
 void UpdateCallback(float deltaTime, float fps)
 {
