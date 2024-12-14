@@ -1,3 +1,5 @@
+**There is something bug, I recommend you find the problem, fix it, or not use it.**
+
 # UpdateSystem
 
 UpdateSystem is a lightweight and flexible update system for managing game loops or real-time simulations. 
